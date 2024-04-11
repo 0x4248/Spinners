@@ -1,7 +1,7 @@
 # Spinners
 # A collection of spinners for use in the terminal.
-# Github: https://www.github.com/lewisevans2007/Spinners
-# By: Lewis Evans
+# Github: https://www.github.com/0x4248/Spinners
+# By: 0x4248
 
 import sys
 import time
